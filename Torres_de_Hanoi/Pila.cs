@@ -24,6 +24,20 @@ namespace Torres_de_Hanoi
 
             Elementos = new List<Disco>();
         }
+        public Pila(int n)
+        {
+            Size =  n;
+
+            Top = n;
+
+            for (int i = n; i < 0; i++)
+            {
+                Disco nuevo = new Disco();
+                nuevo.Valor = i;
+                Elementos.Add(nuevo);
+            }
+            
+        }
 
         public void push(Disco d)
         {
@@ -34,9 +48,10 @@ namespace Torres_de_Hanoi
 
         public Disco pop()
         {
-            Disco d = Elementos.ElementAt(Top);
-            Elementos.RemoveAt(Top);
-            Size--;
+            Disco d = Elementos.Last();
+            Elementos.RemoveAt(Elementos.Count-1);
+            Size = Elementos.Count;
+            Top = Elementos.Last().Valor;
             return d;
 
         }

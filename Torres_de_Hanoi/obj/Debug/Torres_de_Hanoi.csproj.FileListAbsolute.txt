@@ -1,0 +1,8 @@
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\Ale Noguera\Desktop\Clase\Algoritmica\P1\AlgoritmicaPracticas\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb

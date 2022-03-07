@@ -15,22 +15,19 @@ namespace Torres_de_Hanoi
         {
             if (a.Top < b.Top || b.isEmpty())
             {
-                Disco d = a.pop();
-                b.push(d);
+                b.push(a.pop());
                 m++;
             }
             else
             {
-                Disco d = b.pop();
-                a.push(d);
+                a.push(b.pop());
                 m++;
             }
         }
 
         public int iterativo(int n, Pila ini, Pila fin, Pila aux)
         {
-            int m = 0;
-
+            
             if (n % 2 == 0)
             {
                 while (fin.Size != n)
